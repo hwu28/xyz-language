@@ -1,0 +1,6 @@
+a=3
+b=5
+c=a*b
+x=y=z=c^2^2
+print(c)
+print(x)
